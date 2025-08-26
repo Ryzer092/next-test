@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 
 export const metadata: Metadata = {
-  title: "Localhost-style Landing",
+  title: "Ryoma-page",
   description: "Built with Next.js + shadcn/ui + Tailwind",
 };
 
